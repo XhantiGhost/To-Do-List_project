@@ -1,3 +1,9 @@
+<?php 
+
+$sql = "SELECT * FROM `classicss`";
+
+?>
+
 <?php
 	$conn = new mysqli("localhost", "root", "", "db_task");
  
